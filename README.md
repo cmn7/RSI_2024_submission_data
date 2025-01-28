@@ -1,4 +1,4 @@
-Data repository for the submission to Journal of the Royal Society Interface
+Data repository for the submission to Journal of the Royal Society Interface Focus
 
 Title 'Perfusion-Mechanics coupling of the hippocampus' 
 
